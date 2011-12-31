@@ -19,13 +19,13 @@
 define('DB_NAME', 'a1903004_WP');
 
 /** MySQL database username */
-define('DB_USER', 'a1903004_dev');
+define('DB_USER', 'a1903004_devo');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'hcef2012');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql3.000webhost.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
